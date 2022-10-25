@@ -1,0 +1,12 @@
+type(12)
+int(9.8)
+str(400) 
+max(8,10,4)
+min(8,4,9)
+z=-20
+abs(z)
+lista = (1,2,3,4)
+sum(lista)
+round(3.55464,2)
+pow(2,10)
+len('cachorro')
